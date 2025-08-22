@@ -21,11 +21,6 @@ O objetivo é fornecer uma interface simples, responsiva e intuitiva para acompa
 
 * **Frontend:** React + TailwindCSS / ShadCN UI
 * **Backend (opcional):** Node.js + Express (para proxy de APIs)
-* **APIs:** [OpenWeatherMap](https://openweathermap.org/) ou [WeatherAPI](https://www.weatherapi.com/)
+* **APIs:** [OpenWeatherMap](https://openweathermap.org/)
 * **Gráficos:** Recharts / Chart.js / Plotly
 * **Hospedagem:** Vercel
-
----
-
-
-
