@@ -44,9 +44,6 @@ function App() {
             <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">
               Dashboard do Clima
             </h1>
-            <p className="text-white/70 text-sm md:text-base">
-              Previsão meteorológica em tempo real
-            </p>
           </div>
           <ThemeToggle isDarkMode={isDarkMode} onToggle={toggleTheme} />
         </header>
@@ -95,13 +92,6 @@ function App() {
             </>
           )}
         </main>
-
-        {/* Footer */}
-        <footer className="mt-16 text-center">
-          <p className="text-white/40 text-sm">
-            Dados meteorológicos atualizados em tempo real
-          </p>
-        </footer>
       </div>
     </div>
   )
